@@ -239,7 +239,7 @@
 		{"key":"KanSJ_spider","name":"看视界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},		
 		{"key":"293视频","name":"293视频（SP随缘修）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_AppYsV2","name":"优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"}, 
-		{"key":"csp_xpath_6d","name":"六度TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVB/ggtv/json/6d.json"},
+		{"key":"csp_xpath_6d","name":"六度TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/long/GN/raw/branch/master/6d.json"},
 		{
 			"key": "csp_biubiu_骚火电影",
 			"name": "骚火电影",
@@ -248,7 +248,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/shdy.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/shdy.json"
 		}, {
 			"key": "csp_biubiu_厂长资源-蓝光",
 			"name": "厂长蓝光",
@@ -257,7 +257,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/czzy2.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/czzy2.json"
 		}, 
 		{
 			"key": "csp_biubiu_影视工场",
@@ -267,7 +267,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/ysgc2.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/ysgc2.json"
 		},
 		{
 			"key": "csp_biubiu_555电影",
@@ -277,7 +277,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/555.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/555.json"
 		},
 		{
 			"key": "诺讯资源",
@@ -302,7 +302,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "clan://TVB/ggtv/json/88kanqiu.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/88kanqiu.json"
 		}, 
 
 		{
@@ -313,7 +313,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "clan://TVB/ggtv/json/qiumi.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/qiumi.json"
 		}, {
 			"key": "csp_biubiu_斗鱼",
 			"name": "斗鱼直播",
@@ -322,7 +322,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/douyu.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/douyu.json"
 		}, {
 			"key": "csp_xpath_huya",
 			"name": "虎牙直播",
@@ -331,7 +331,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "clan://TVB/ggtv/json/huya2.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/huya2.json"
 		}, {
 			"key": "csp_xpath_kuqimv",
 			"name": "经典MV",
@@ -340,7 +340,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/kuqimv.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/kuqimv.json"
 		},
 		{
 			"key": "csp_xpath_jbb",
@@ -350,7 +350,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "clan://TVB/ggtv/json/jubaibai.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/jubaibai.json"
 		},
 		{"key":"mtv_xp_789ba","name":"789影吧","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/789yb.json"},
 		{
@@ -361,7 +361,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/zhenbuka.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/zhenbuka.json"
 		}, {
 			"key": "csp_biubiu_特狗影视",
 			"name": "特狗影视",
@@ -370,7 +370,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/tgys.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/tgys.json"
 		}, {
 			"key": "csp_biubiu_蓝莓影视",
 			"name": "蓝莓影视",
@@ -379,7 +379,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/lanmei.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/lanmei.json"
 		},
 		{
 			"key": "考拉直链",
@@ -407,7 +407,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "clan://TVB/ggtv/json/meiju562.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/meiju562.json"
 		},
 		{
 			"key": "csp_XPath_bidiys",
@@ -417,7 +417,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/bidiys2.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/bidiys2.json"
 		},
 		{
 			"key": "小熊",
@@ -428,7 +428,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, 
-		{"key":"csp_xpath_qiyou","name":"奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVB/ggtv/json/qiyouxp.json"},
+		{"key":"csp_xpath_qiyou","name":"奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/long/GN/raw/branch/master/qiyouxp.json"},
 		{
 			"key": "csp_biubiu_voflix",
 			"name": "voflix",
@@ -437,7 +437,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/voflix.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/voflix.json"
 		},
 		{
 			"key": "csp_biubiu_cupfox",
@@ -447,7 +447,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/cupfox.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/cupfox.json"
 		},
 		{
 			"key": "csp_biubiu_yekong",
@@ -457,7 +457,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/yekong.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/yekong.json"
 		},
 		{
 			"key": "csp_appysv2_M2_暖光影视",
@@ -469,7 +469,7 @@
 			"filterable": 1,
 			"ext": "https://app.bl210.com/api.php/v1.vod"
 		},
-				{"key":"mtv_xp_jipinys","name":"极品影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVB/ggtv/json/jipin.json"},
+				{"key":"mtv_xp_jipinys","name":"极品影视","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/long/GN/raw/branch/master/jipin.json"},
 		{
 			"key": "多多资源",
 			"name": "多多资源(切)",
@@ -501,7 +501,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/pianku.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/pianku.json"
 		},
 		{
 			"key": "影图",
@@ -522,8 +522,8 @@
 			"filterable": 1,
 			"ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"
 		},
-		{"key":"mtv_xp_AGE","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVB/ggtv/json/AGE.json"},
-		{"key":"mtv_xp_动漫岛源","name":"动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVB/ggtv/json/dongmandao.json"},
+		{"key":"mtv_xp_AGE","name":"AGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/long/GN/raw/branch/master/AGE.json"},
+		{"key":"mtv_xp_动漫岛源","name":"动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/long/GN/raw/branch/master/dongmandao.json"},
 		{
 			"key": "csp_biubiu_风车动漫",
 			"name": "风车动漫",
@@ -532,7 +532,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/fengchedm.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/fengchedm.json"
 		}, {
 			"key": "csp_biubiu_OmoFun动漫",
 			"name": "OmoFun动漫",
@@ -541,7 +541,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/0mofun.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/0mofun.json"
 		}, {
 			"key": "csp_biubiu_森屋新番",
 			"name": "森屋新番",
@@ -550,7 +550,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/senwu.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/senwu.json"
 		},
 		{
 			"key": "csp_xpath___动漫巴士",
@@ -560,12 +560,12 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/dm84.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/dm84.json"
 		},
 		{"key":"多多","name":"多多资源（采集有广告）","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片" ]},
-		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"clan://TVB/ggtv/json/演唱会.json"},
-		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"clan://TVB/ggtv/json/戏曲.json"},
-		{"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"clan://TVB/ggtv/json/教育.json"},
+		{"key":"演唱会","name":"演唱会（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/long/GN/raw/branch/master/演唱会.json"},
+		{"key":"戏曲","name":"戏曲（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/long/GN/raw/branch/master/戏曲.json"},
+		{"key":"少儿教育","name":"教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/long/GN/raw/branch/master/教育.json"},
 				{
 			"key": "csp_biubiu_ting",
 			"name": "听书网（无画面）",
@@ -574,7 +574,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "clan://TVB/ggtv/json/tingbook.json"
+			"ext": "https://agit.ai/long/GN/raw/branch/master/tingbook.json"
 		},
 		{
 			"key": "Yiso",
@@ -605,7 +605,7 @@
 			"filterable": 1,
 			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 		},
-				{"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"clan://TVB/ggtv/json/yinfans.json"}, 
+				{"key":"mtv_pc_yinfans","name":"音范丝（蓝光磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/long/GN/raw/branch/master/yinfans.json"}, 
 				{
 			"key": "push_agent",
 			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
